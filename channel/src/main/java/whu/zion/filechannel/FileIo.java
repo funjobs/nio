@@ -30,7 +30,7 @@ public class FileIo {
 
             // 初始化一个字节的缓存区 - 默认写入模式
             ByteBuffer buffer = ByteBuffer.allocate(1024);
-            // 可读长度
+            // 已读长度
             int length = -1;
 
             while ((length = channel.read(buffer)) != -1) {
