@@ -1,0 +1,34 @@
+
+E
+java:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùˆÁŒ™.
+E
+java:S1148w"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8üµ¦™.
+E
+java:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ĞÅŒ™.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(˜á­ûÿÿÿÿ8ÏÛ×™.
+v
+java:S1192"TDefine a constant instead of duplicating this literal "æºæ–‡ä»¶ä¸å­˜åœ¨!" 3 times.(³¦Â¥ùÿÿÿÿ8¢ÿâ™.
+b
+java:S2147v"ECombine this catch with the one at line 116, which has the same body.(ï­£Ä8üµ¦™.
+E
+java:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àğ¥™.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ÿ ÿ¿şÿÿÿÿ8ò€ĞŒ™.
+E
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ç®‡™.
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(³¦Â¥ùÿÿÿÿ8àğ¥™.
+c
+java:S2147"ECombine this catch with the one at line 142, which has the same body.(ï­£Ä8ú—ä™.
+E
+java:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ç®‡™.
+F
+java:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú—ä™.
+a
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(ï­£Ä8 ç®‡™.
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(ƒÚáB8…Š‡‰™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³¦Â¥ùÿÿÿÿ8âÍ¡‡™.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(³¦Â¥ùÿÿÿÿ8¢ÿâ™.
+a
+java:S2147R"DCombine this catch with the one at line 80, which has the same body.(ï­£Ä8ùˆÁŒ™.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú—ä™.
